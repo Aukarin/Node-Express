@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\JS"
+		},
+		{
+			"path": "..\\Web"
+		},
+		{
+			"path": "..\\..\\xamm\\htdocs\\RoomPJ"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web"
+	}
+}
